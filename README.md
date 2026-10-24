@@ -4,7 +4,7 @@ A football data analysis project exploring Hakim Ziyech's passing performance du
 
 ## Objectives
 
-- Explore Hakim Ziyech's passing actions during the 2022 FIFA World Cup.
+- Explore Hakim Ziyech's passing actions during the 2022 Fifa World Cup.
 - Clean and organize the data for analysis.
 - Calculate descriptive statistics to summarize his performance.
 - Use visualizations to make patterns in his passing and playmaking easier to understand.
