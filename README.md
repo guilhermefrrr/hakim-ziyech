@@ -1,4 +1,4 @@
-# Hakim Ziyech — FIFA World Cup 2022 Analysis
+# Hakim Ziyech - FIFA World Cup 2022 Analysis
 
 A football data analysis project exploring Hakim Ziyech's passing performance during the 2022 FIFA World Cup. Using Python and pandas, the project cleans and analyzes the data and creates visualizations to investigate Ziyech's playmaking and contribution on the pitch.
 
